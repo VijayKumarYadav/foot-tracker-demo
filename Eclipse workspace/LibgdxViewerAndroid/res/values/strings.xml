@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, LibgdxViewerAndroidActivity!</string>
+    <string name="app_name">LibgdxViewerAndroid</string>
+    <string name="db_name">AFloor.db.mp3</string>
+
+</resources>
